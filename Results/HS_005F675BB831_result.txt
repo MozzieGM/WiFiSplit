@@ -1,0 +1,23 @@
+📡 Relatório WiFiSplit
+====================
+
+✅ Senha encontrada: 1234vida
+
+BSSID: 00:5f:67:5b:b8:31
+ESSID: Mozzie
+EAPOL Packets: 50
+
+
+📂 Wordlists disponíveis:
+Arquivo: wordlist_demo.txt
+Total de senhas: 50,000
+Processos paralelos: 1
+
+⚙️ Execução:
+Start: 2025-09-07 17:39:40
+End:   2025-09-07 17:39:41
+⏱️ Tempo total: 0 min 0 sec
+
+💻 Sistema:
+OS: Windows 10
+CPU cores: 16
